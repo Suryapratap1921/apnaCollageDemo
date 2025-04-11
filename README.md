@@ -1,4 +1,4 @@
 # apnaCollageDemo
 To learning from start
 <br>
-Author - Surya Pratap
+Author - Surya Pratap singh thakur
